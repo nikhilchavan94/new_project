@@ -1,0 +1,213 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "usersdata": [
+    {
+      "name": "assd",
+      "email": "dcsd",
+      "password": "dv",
+      "id": 19
+    },
+    {
+      "name": "Nikhil",
+      "email": "n@gmail.com",
+      "password": "123",
+      "id": 27
+    },
+    {
+      "name": "niksk`kjbkjb```",
+      "email": "jkb",
+      "password": "jb",
+      "id": 28
+    },
+    {
+      "name": "qq",
+      "email": "qq",
+      "password": "qq",
+      "id": 29
+    },
+    {
+      "name": "qqqq",
+      "email": "qqqq",
+      "password": "qqqq",
+      "id": 30
+    },
+    {
+      "name": "jh",
+      "email": "hjh",
+      "password": "jhj",
+      "id": 32
+    },
+    {
+      "name": "nikhil",
+      "email": "aaaa@gmail.com",
+      "password": "1234",
+      "id": 33
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 34
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 35
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 36
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 37
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 38
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 39
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 40
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 41
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 42
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 43
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 44
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 45
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 46
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 47
+    },
+    {
+      "name": "shrikant",
+      "email": "shrikant123@gmail.com",
+      "password": "1234",
+      "id": 48
+    },
+    {
+      "name": "sdsds",
+      "email": "sd@gmail.com",
+      "password": "1234",
+      "id": 49
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 50
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 51
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 52
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 53
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 54
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 55
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 56
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 57
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 58
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,22 @@
+<p>header works!</p>
+<h1><a routerLink="/">E-Commerce</a></h1>
+<nav style="display: flex;">
+  
+
+  <div *ngIf="menuType==='default'">
+    <input type="text"><button>Search</button> </div>
+  <div [ngSwitch]="menuType">
+
+  <ul *ngSwitchCase="'default'">
+  <li><a routerLink="/">Home</a></li>
+  <li><a routerLink="/seller_signup">Seller Signup</a></li>
+  <li><a routerLink="/seller_home">Seller Home</a></li></ul>
+
+  <ul *ngSwitchCase="'seller'">
+    <li><a routerLink="#">Product</a></li>  
+    <li><a routerLink="#">Add Product</a></li>
+    <li><a  (click)="logout()">Logout</a></li></ul>
+    
+</div>
+</nav>
+
